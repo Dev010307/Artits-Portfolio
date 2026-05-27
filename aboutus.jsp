@@ -128,9 +128,9 @@
             <li><a href="index.jsp">Home</a></li>
             <li><a href="gallery.jsp">Gallery</a></li>
             <li><a href="aboutus.jsp">About Us</a></li>
-            <li><a href="contactus.jsp">Contact Us</a></li>
-            <li><a href="feedback.jsp">Feedback</a></li>
-            <li><a href="login.jsp">Login</a></li>
+            <li><a href="con_data.jsp">Contact Us</a></li>
+            <li><a href="feedback_data.jsp">Feedback</a></li>
+            <li><a href="login_data.jsp">Login</a></li>
         </ul>
     </nav>
 

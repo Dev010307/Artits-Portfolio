@@ -17,7 +17,7 @@
             int rowsInserted = stmt.executeUpdate();
             if (rowsInserted > 0) {
 
-                response.sendRedirect("index.jsp");
+                response.sendRedirect("index.html");
             } else {
                 out.println("Failed Contact ");
             }

@@ -15,7 +15,7 @@
             int rowsInserted = stmt.executeUpdate();
             if (rowsInserted > 0) {
                 // Redirect to the home page if login is successful
-                response.sendRedirect("index.jsp");
+                response.sendRedirect("index.html");
             } else {
                 out.println("Login Failed");
             }
